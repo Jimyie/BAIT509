@@ -1,0 +1,11 @@
+1.	X1=A, X2=B
+
+2.	Margin=2
+
+3.	Observation 6,7,8,9,10 receive penalty. And these observations are the support vectors.
+
+4.	0.25+0.25+1.75+1.25+2.25=5.75
+
+5.	Yes, I can choose a margin less than 2.5
+
+6.	Yes, the observation 4,8,9 is the support vectors.
